@@ -7,7 +7,7 @@ import requests
 os.environ["GEMINI_ULTRA"] = "1"
 
 # Cookie情報のURL
-cookie_url = 'https://smtn.jp/prompt/txt/cookies.txt'
+cookie_url = 'https://*****/prompt/txt/cookies.txt'
 questions_file_path = './questions.csv'  # CSVファイルへのパスに変更
 required_cookies_keys = ["__Secure-1PSIDCC", "__Secure-1PSID", "__Secure-1PSIDTS"]
 
